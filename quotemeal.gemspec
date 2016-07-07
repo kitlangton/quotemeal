@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{blah}
   spec.description   = %q{blah}
-  spec.homepage      = "https://www.google.com"
+  spec.homepage      = "https://github.com/kitlangton/quotemeal"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
